@@ -40,11 +40,6 @@ OCR/                  # OCR implementation for text recognition
 Translation-2/        # Translation module for multiple languages
 ```
 
-## How to Run the Project
-1. Clone the repository.
-2. Follow setup instructions in the corresponding subdirectory for each feature.
-3. Run the Flask server and Laravel API for backend operations.
-4. Launch the mobile application for user interaction.
 
 ## Future Enhancements
 - Real-time processing for all features.
